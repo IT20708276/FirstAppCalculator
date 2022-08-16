@@ -13,7 +13,7 @@ import java.util.Calendar;
 public class MainActivity extends AppCompatActivity {
     private EditText enter_birth_year;
     private Button calcage;
-    private TextView ageview;
+    private TexttView ageview;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
